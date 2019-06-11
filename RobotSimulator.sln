@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Runner", "src\RobotSimulator.Runner\RobotSimulator.Runner.csproj", "{6BD864DE-6564-4163-8E4C-E3209A6C8E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Contracts", "src\RobotSimulator.Contracts\RobotSimulator.Contracts.csproj", "{E0881CFC-4183-4EFF-BC72-A00F62DB59D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Implementation", "src\RobotSimulator.Implementation\RobotSimulator.Implementation.csproj", "{BB09A307-5F8B-4E24-8DE5-5CC129A5EDF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Configuration", "src\RobotSimulator.Configuration\RobotSimulator.Configuration.csproj", "{73E0F425-2838-44FC-B488-FD7E8CDAA6FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Implementation.UnitTests", "src\RobotSimulator.Implementation.UnitTests\RobotSimulator.Implementation.UnitTests.csproj", "{E846C52D-7AB2-45A7-80DF-B3C976B74479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotSimulator.Runner.UnitTests", "src\RobotSimulator.Runner.UnitTests\RobotSimulator.Runner.UnitTests.csproj", "{FF3186D9-8D06-441A-9D21-52C74D0B81F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BD864DE-6564-4163-8E4C-E3209A6C8E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD864DE-6564-4163-8E4C-E3209A6C8E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD864DE-6564-4163-8E4C-E3209A6C8E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD864DE-6564-4163-8E4C-E3209A6C8E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0881CFC-4183-4EFF-BC72-A00F62DB59D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0881CFC-4183-4EFF-BC72-A00F62DB59D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0881CFC-4183-4EFF-BC72-A00F62DB59D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0881CFC-4183-4EFF-BC72-A00F62DB59D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB09A307-5F8B-4E24-8DE5-5CC129A5EDF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB09A307-5F8B-4E24-8DE5-5CC129A5EDF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB09A307-5F8B-4E24-8DE5-5CC129A5EDF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB09A307-5F8B-4E24-8DE5-5CC129A5EDF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E0F425-2838-44FC-B488-FD7E8CDAA6FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E0F425-2838-44FC-B488-FD7E8CDAA6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E0F425-2838-44FC-B488-FD7E8CDAA6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E0F425-2838-44FC-B488-FD7E8CDAA6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E846C52D-7AB2-45A7-80DF-B3C976B74479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E846C52D-7AB2-45A7-80DF-B3C976B74479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E846C52D-7AB2-45A7-80DF-B3C976B74479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E846C52D-7AB2-45A7-80DF-B3C976B74479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF3186D9-8D06-441A-9D21-52C74D0B81F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF3186D9-8D06-441A-9D21-52C74D0B81F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF3186D9-8D06-441A-9D21-52C74D0B81F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF3186D9-8D06-441A-9D21-52C74D0B81F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CF3D41-CFDB-4D67-8183-46E8E0F550A6}
+	EndGlobalSection
+EndGlobal

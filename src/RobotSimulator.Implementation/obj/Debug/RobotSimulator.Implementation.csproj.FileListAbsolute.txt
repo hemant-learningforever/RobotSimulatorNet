@@ -1,0 +1,9 @@
+D:\RobotSimulator\src\RobotSimulator.Implementation\bin\Debug\RobotSimulator.Implementation.dll
+D:\RobotSimulator\src\RobotSimulator.Implementation\bin\Debug\RobotSimulator.Implementation.pdb
+D:\RobotSimulator\src\RobotSimulator.Implementation\bin\Debug\RobotSimulator.Contracts.dll
+D:\RobotSimulator\src\RobotSimulator.Implementation\bin\Debug\RobotSimulator.Contracts.pdb
+D:\RobotSimulator\src\RobotSimulator.Implementation\obj\Debug\RobotSimulator.Implementation.csprojAssemblyReference.cache
+D:\RobotSimulator\src\RobotSimulator.Implementation\obj\Debug\RobotSimulator.Implementation.csproj.CoreCompileInputs.cache
+D:\RobotSimulator\src\RobotSimulator.Implementation\obj\Debug\RobotSimulator.Implementation.csproj.CopyComplete
+D:\RobotSimulator\src\RobotSimulator.Implementation\obj\Debug\RobotSimulator.Implementation.dll
+D:\RobotSimulator\src\RobotSimulator.Implementation\obj\Debug\RobotSimulator.Implementation.pdb

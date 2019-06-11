@@ -1,0 +1,17 @@
+D:\RobotSimulator\src\RobotSimulator.Startup\obj\Debug\RobotSimulator.Startup.csprojAssemblyReference.cache
+D:\RobotSimulator\src\RobotSimulator.Startup\obj\Debug\RobotSimulator.Startup.csproj.CoreCompileInputs.cache
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Startup.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Startup.pdb
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Contracts.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Implementation.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\Unity.Abstractions.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\Unity.Container.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Contracts.pdb
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\RobotSimulator.Implementation.pdb
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\Unity.Abstractions.pdb
+D:\RobotSimulator\src\RobotSimulator.Startup\bin\Debug\Unity.Container.pdb
+D:\RobotSimulator\src\RobotSimulator.Startup\obj\Debug\RobotSimulator.Startup.csproj.CopyComplete
+D:\RobotSimulator\src\RobotSimulator.Startup\obj\Debug\RobotSimulator.Startup.dll
+D:\RobotSimulator\src\RobotSimulator.Startup\obj\Debug\RobotSimulator.Startup.pdb
