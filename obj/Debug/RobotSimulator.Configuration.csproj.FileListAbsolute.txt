@@ -1,1 +1,0 @@
-D:\RobotSimulator\obj\Debug\RobotSimulator.Configuration.csproj.CoreCompileInputs.cache
